@@ -1,13 +1,7 @@
 {
-  "v1": {
-    "products": [
-      {
-        "device": {
-          "productname": "Wake-up Light",
-          "name": "Mike's Somneo",
-          "ctn": "HF3671/01"
-        }
-      }
-    ]
+  "device": {
+    "productname": "Wake-up Light",
+    "name": "Somneo",
+    "ctn": "HF3671/01"
   }
 }
