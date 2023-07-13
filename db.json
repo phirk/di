@@ -1,17 +1,7 @@
 {
-  "products": [
-    {
-      "wifi": {
-        "ssid": "WLAN-PUB",
-        "password": ""
-      }
-    },
-    {
-      "device": {
-        "productname": "Wake-up Light",
-        "name": "Somneo",
-        "ctn": "HF3671/01"
-      }
-    }
-  ]
+  "device": {
+    "productname": "Wake-up Light",
+    "name": "Somneo",
+    "ctn": "HF3671/01"
+  }
 }
